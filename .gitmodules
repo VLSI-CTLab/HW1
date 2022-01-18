@@ -1,0 +1,3 @@
+[submodule "solution"]
+	path = solution
+	url = https://github.com/VLSI-CTLab/HW1_sol.git
